@@ -2,7 +2,6 @@ title: The Million Pound Drop Of Life
 author: Adam Dawkins
 date: 2012/01/05
 
-
 If you've never seen the TV show <cite>The Million Pound Drop</cite> - watch this.
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/RxKi2-XLC6Q" frameborder="0" allowfullscreen></iframe>
@@ -19,7 +18,7 @@ Often, Christianity is described as a comfort blanket - a way of making people f
 
 At one point he suggests his disciples will need a cross like his to follow him.
 
-In Matthew 13:44 he describes the Kingdom of God like a hidden treasure in a field:
+In [Matthew 13:44](http://www.biblegateway.com/passage/?search=matthew%2013:44&version=ESV) he describes the Kingdom of God like a hidden treasure in a field:
 
 >"Again, the Kingdom of Heaven is like a treasure hidden in the field, which a man found, and hid. In his joy, he goes and sells all that he has, and buys that field."
 
