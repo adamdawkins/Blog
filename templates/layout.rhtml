@@ -7,7 +7,11 @@
     <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
     <title><%= title %></title>
-		
+		<% unless css.empty? %>
+			<style type="text/css" media="screen">
+				<%= css %>
+			</style>
+		<% end %>
   </head>
   <body>
     <section>
