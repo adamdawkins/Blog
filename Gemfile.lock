@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/adamdawkins/toto.git
-  revision: c8622d556b9d262d0005b9cf12b5a10194827c54
+  revision: 685e3c697f3ee20c50a2d74b9567c970ae4bd3c6
   specs:
     toto (0.4.9)
       builder
